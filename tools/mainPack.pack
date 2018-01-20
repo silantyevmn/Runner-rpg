@@ -17,16 +17,23 @@ knight
   orig: 1200, 100
   offset: 0, 0
   index: -1
-bear
+shopItems
   rotate: false
   xy: 516, 104
   size: 800, 100
   orig: 800, 100
   offset: 0, 0
   index: -1
-runner
+bear
   rotate: false
   xy: 516, 206
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
+runner
+  rotate: false
+  xy: 516, 308
   size: 600, 100
   orig: 600, 100
   offset: 0, 0
